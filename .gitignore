@@ -3,3 +3,6 @@ docs/ProblemStatement/ProblemStatement.log
 docs/ProblemStatement/ProblemStatement.synctex.gz
 kaplan.egg-info/*
 setup.py
+kaplan/__pycache__/
+kaplan/test/__pycache__/
+kaplan/test/kaplan.egg-info/
